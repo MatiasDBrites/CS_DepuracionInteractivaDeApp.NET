@@ -9,3 +9,6 @@ Depuración interactiva de aplicaciones .NET con el depurador de Visual Studio C
 
 3
 [![Debugging3.png](https://i.postimg.cc/m2VS0XSB/Debugging3.png)](https://postimg.cc/JGDJXQg2)
+
+Result
+[![Debugging4.png](https://i.postimg.cc/tTX3SFVY/Debugging4.png)](https://postimg.cc/8F0fsJ4S)
